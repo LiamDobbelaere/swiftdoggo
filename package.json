@@ -1,0 +1,23 @@
+{
+  "name": "swiftdoggo",
+  "version": "1.0.0",
+  "description": "Swiftdoggo website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiamDobbelaere/swiftdoggo.git"
+  },
+  "author": "Liam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiamDobbelaere/swiftdoggo/issues"
+  },
+  "homepage": "https://github.com/LiamDobbelaere/swiftdoggo#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
